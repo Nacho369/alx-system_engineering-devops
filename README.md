@@ -1,2 +1,1 @@
-SHELL BASICS
-This is a shell basics task forthe ALX SE Program.
+SHELL BASICS: This is a shell basics task for the ALX SE Program.
